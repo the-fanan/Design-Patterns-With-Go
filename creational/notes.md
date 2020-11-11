@@ -12,3 +12,9 @@ Used when:
 Used when:
 - Object creation needs to be separated from object user (due to complexity of creating object)
 - Reuse object creation algorithm between many objects
+
+### Factory Pattern
+Used when:
+- You need to delegate creation of new instances to a different part of the program
+- You are working at an interface level rather than concrete level
+- You are grouping a family of objects into a family object creator
