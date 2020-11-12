@@ -19,5 +19,8 @@ Used when:
 - You are working at an interface level rather than concrete level
 - You are grouping a family of objects into a family object creator
 
-### Abstract Factory
+### Abstract Factory Pattern
 This is basically a factory of factories.
+
+### Prototype Pattern
+This involves cloning already created objects and modifying the clone to particular needs.
