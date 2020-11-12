@@ -3,7 +3,7 @@ package abstract_factory
 type FamilyCar struct {}
 
 func (f *FamilyCar) NumDoors() int {
-	return 4
+	return 6
 }
 
 func (f *FamilyCar) NumWheels() int {
