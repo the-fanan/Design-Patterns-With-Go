@@ -8,3 +8,6 @@ This involves importing other parts of the application or modules for use. This 
 
 ### Adapter Pattern
 This follows the Open-Closed principle of OOP. It allows yout to make two incompatible parts of your code to work and extend legacy code or code you cannot change.
+
+### Bridge Pattern
+Decouples abstraction from implementation. This allows for code flexibility.
